@@ -8,4 +8,4 @@
 		echo $errorMessage;
 		exit();
 	}
-?>
+	// Mencoba menggunakan koneksi
