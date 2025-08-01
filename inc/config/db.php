@@ -8,3 +8,4 @@
 		echo $errorMessage;
 		exit();
 	}
+?>
